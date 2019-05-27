@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Titre 1",
+      "content": "Contenu 1",
+      "img" : "img/io.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Titre 2",
+      "content": "Contenu 2",
+      "img" : "img/images.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Titre 3",
+      "content": "Contenu 3",
+      "img" : "img/toc.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Titre 4",
+      "content": "Contenu 4",
+      "img" : "img/io.jpeg"
+    }
+  ]
+}
